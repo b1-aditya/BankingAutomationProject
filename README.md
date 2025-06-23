@@ -29,7 +29,7 @@ Tkinter (usually comes pre-installed with Python)
 Sqlite3 You can install Python from python.org.
 🚀 How to Run
 Clone or download this repository:
-git clone https://github.com/eternalquest/BankAutomationProject.git
+git clone https://github.com/b1-aditya/BankingAutomationProject
 cd bank-automation-tkinter
 Run the application:
 
